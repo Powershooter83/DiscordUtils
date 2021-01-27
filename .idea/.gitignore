@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../MusicBot\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\Yanick\IdeaProjects\MusicBot\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
